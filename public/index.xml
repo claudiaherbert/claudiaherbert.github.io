@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudia Herbert</title>
+    <link>/</link>
+    <description>Recent content on Claudia Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2019 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 04 Sep 2019 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a PhD student at UC Berkeley in Environmental Science, Policy and Management studying fire ecology using remote sensing. I am co-advised by Dr. Van Butsic, who studies Land Use Change, and Dr. Scott Stephens, who works on wildland fire. I am interested in Improved Forest Management carbon offsets in California&amp;rsquo;s cap-and-trade market and questions of environmental justice in wildfire recovery.
+I have a Bachelor&amp;rsquo;s of Science from UC Berkeley, where I majored in Conservation and Resource Studies and Society and Environment and minored in Forestry, Public Policy, and Geospatial Information Systems.</description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>/2019/09/04/articles/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/04/articles/</guid>
+      <description>Articles I have worked onThis page has links to blogs
+</description>
+    </item>
+    
+    <item>
+      <title>GIS Labs</title>
+      <link>/2019/09/04/gis-labs/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/04/gis-labs/</guid>
+      <description>Intro to GIS labs1. Digitizing and Digital Elevation ModelsThis lab was developed using Google Earth Pro (free!) and Arc Map. I am looking forward to adapting this to include Arc Pro and R functions.
+2. Raster Math functions and Sea Level RiseThis lab looks at different senarios of Sea Level Rise impact land cover in the San Francisco Bay.
+</description>
+    </item>
+    
+  </channel>
+</rss>

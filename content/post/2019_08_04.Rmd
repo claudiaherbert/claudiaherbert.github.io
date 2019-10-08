@@ -1,0 +1,21 @@
+---
+title: "GIS Labs"
+author: "Claudia Herbert"
+date: "2019-09-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Intro to GIS labs
+
+### 1. Digitizing and Digital Elevation Models
+
+This lab was developed using Google Earth Pro (free!) and Arc Map. I am looking forward to adapting this to include Arc Pro and R functions. 
+
+
+### 2. Raster Math functions and Sea Level Rise
+
+This lab looks at different senarios of Sea Level Rise impact land cover in the San Francisco Bay. 
