@@ -6,10 +6,20 @@
     <description>Recent content on Claudia Herbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2019 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GIS Labs</title>
+      <link>/2019/10/01/gis-labs/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/01/gis-labs/</guid>
+      <description>Sharing GIS labsI was a Graduate Student Instructor for Berkeley’s ESPM 72 in Spring 2019, Intro to Geographic Information Sciences. I enjoyed sharing my excitement for GIS with students and want to share some of the teaching materials I developed for the lab section of this course. Feel free to use these intro labs or share any thoughts you have about them with me.
+1. Digitizing and Digital Elevation ModelsThis lab was developed using Google Earth Pro (free!</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,8 +27,8 @@
       <pubDate>Wed, 04 Sep 2019 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>I am a PhD student at UC Berkeley in Environmental Science, Policy and Management studying fire ecology using remote sensing. I am co-advised by Dr. Van Butsic, who studies Land Use Change, and Dr. Scott Stephens, who works on wildland fire. I am interested in Improved Forest Management carbon offsets in California&amp;rsquo;s cap-and-trade market and questions of environmental justice in wildfire recovery.
-I have a Bachelor&amp;rsquo;s of Science from UC Berkeley, where I majored in Conservation and Resource Studies and Society and Environment and minored in Forestry, Public Policy, and Geospatial Information Systems.</description>
+      <description>I am a PhD student at UC Berkeley in Environmental Science, Policy and Management studying fire ecology using remote sensing. I am co-advised by Dr. Van Butsic, who studies land use and land use change, and Dr. Scott Stephens, who researches wildland fire. I am interested in Improved Forest Management carbon offsets in California&amp;rsquo;s cap-and-trade market and questions of environmental justice in wildfire recovery.
+I have a Bachelor of Science from UC Berkeley, where I majored in Conservation and Resource Studies and Society and Environment and minored in Forestry, Public Policy, and Geospatial Information Systems.</description>
     </item>
     
     <item>
@@ -29,17 +39,6 @@ I have a Bachelor&amp;rsquo;s of Science from UC Berkeley, where I majored in Co
       <guid>/2019/09/04/articles/</guid>
       <description>Articles I have worked onThis page has links to blogs
 </description>
-    </item>
-    
-    <item>
-      <title>GIS Labs</title>
-      <link>/2019/09/04/gis-labs/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/09/04/gis-labs/</guid>
-      <description>Intro to GIS labs1. Digitizing and Digital Elevation ModelsThis lab was developed using Google Earth Pro (free!) and Arc Map. I am looking forward to adapting this to include Arc Pro and R functions.
-2. Raster Math functions and Sea Level RiseThis lab looks at different senarios of Sea Level Rise impact land cover in the San Francisco Bay.
-</description>
     </item>
     
   </channel>
