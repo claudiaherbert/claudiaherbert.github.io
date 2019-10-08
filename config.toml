@@ -1,20 +1,21 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Claudia Herbert"
-theme = "hugo-lithium"
+theme = "hugo - lithium "
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+
+##[permalinks]
+  ##  post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Posts"
+    url = "/post/"
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/claudherb"
@@ -31,12 +32,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    # path to the homeicon, under "static"
+    favicon = "home_icon.png"
 
     [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
+    url = "home_icon_large.png"
+    width = 500
+    height = 500
     alt = "Logo"
+    
+  [blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
 
