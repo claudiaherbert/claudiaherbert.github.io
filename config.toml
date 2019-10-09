@@ -7,6 +7,11 @@ disqusShortname = ""
 googleAnalytics = ""
 theme = "hugo-sustain"
 publishDir = "claudiaherbert.github.io"
+[original]
+  name = "Sustain"
+  homepage = "https://biomadeira.github.io/sustain/"
+  repo = "https://github.com/biomadeira/sustain"
+
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
