@@ -1,49 +1,43 @@
-baseurl = "/"
-languageCode = "en-us"
+baseurl = "https://claudiaherbert.github.io"
+languageCode = "en-US"
 title = "Claudia Herbert"
-theme = "hugo - lithium "
-googleAnalytics = ""
+# Enable comments by entering your Disqus shortname
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
 
-
-##[permalinks]
-  ##  post = "/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "Posts"
-    url = "/post/"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/claudherb"
+[permalinks]
+  post = "/:year/:month/:day/:slug"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+  avatar = "profile_herbert.png"
+  author = "Claudia Herbert"
+  description = "This is a personal academic website. I am interested in Remote Sensing, Wildfires, and GIS."
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
 
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    MathJaxVersion = "2.7.5"
+[params.social]
+  Github        = "claudiaherbert"
+  Email         = "claudiaherbert@berkeley.edu"
+  Twitter       = "claudherb"
+  LinkedIn      = "claudiaherbert"
 
-    # path to the homeicon, under "static"
-    favicon = "home_icon.png"
-
-    [params.logo]
-    url = "home_icon_large.png"
-    width = 500
-    height = 500
-    alt = "Logo"
-    
-  [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
-	angledQuotes = false
-	latexDashes = true
-  extensions = ["backslashLineBreak"]
-
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
