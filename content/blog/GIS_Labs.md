@@ -5,12 +5,30 @@ date: "2019-10-01"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
++++
+title = "GIS Labs Description = ""
+tags = [
+    "GIS",
+    "digitizing",
+    "raster math",
+    "DEM",
+    "NLCD"
+]
+date = "2014-04-02"
+categories = [
+    "GIS",
+    "Tutorials",
+]
+highlight = "true"
++++
+
 
 # Sharing GIS labs
 I was a Graduate Student Instructor for Berkeley's ESPM 72 in Spring 2019, Intro to Geographic Information Sciences. I enjoyed sharing my excitement for GIS with students and want to share some of the teaching materials I developed for the lab section of this course. Feel free to use these intro labs or share any thoughts you have about them with me. 
+
+    {{ if or (or (isset .Params "title") (isset .Params "caption")) (isset .Params "attr")}}
+    Stuff Here
+    {{ end }}
 
 ***
 
