@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claudia Herbert</title>
-    <link>/</link>
+    <link>https://claudiaherbert.github.io/</link>
     <description>Recent content on Claudia Herbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://claudiaherbert.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GIS Labs</title>
-      <link>/post/gis_labs/</link>
+      <link>https://claudiaherbert.github.io/post/gis_labs/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/gis_labs/</guid>
+      <guid>https://claudiaherbert.github.io/post/gis_labs/</guid>
       <description>Sharing GIS labs I was a Graduate Student Instructor for Berkeley’s ESPM 72 in Spring 2019, Intro to Geographic Information Sciences. I enjoyed sharing my excitement for GIS with students and want to share some of the teaching materials I developed for the lab section of this course. Feel free to use these intro labs or share any thoughts you have about them with me.
 1. Digitizing and Digital Elevation Models This lab was developed using Google Earth Pro (free!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://claudiaherbert.github.io/about/</link>
       <pubDate>Wed, 04 Sep 2019 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://claudiaherbert.github.io/about/</guid>
       <description>I am a PhD student at UC Berkeley in Environmental Science, Policy and Management studying fire ecology using remote sensing. I am co-advised by Dr. Van Butsic, who studies land use and land use change, and Dr. Scott Stephens, who researches wildland fire. I am interested in Improved Forest Management carbon offsets in California&amp;rsquo;s cap-and-trade market and questions of environmental justice in wildfire recovery.
 I have a Bachelor of Science from UC Berkeley, where I majored in Conservation and Resource Studies and Society and Environment and minored in Forestry, Public Policy, and Geospatial Information Systems.</description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>/post/hide/articles/</link>
+      <link>https://claudiaherbert.github.io/post/hide/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/hide/articles/</guid>
+      <guid>https://claudiaherbert.github.io/post/hide/articles/</guid>
       <description> Articles I have worked on This page has links to blogs
  </description>
     </item>
