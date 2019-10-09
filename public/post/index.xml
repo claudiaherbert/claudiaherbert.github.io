@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Claudia Herbert</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Claudia Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GIS Labs</title>
+      <link>/2019/10/01/gis-labs/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/01/gis-labs/</guid>
+      <description>Sharing GIS labsI was a Graduate Student Instructor for Berkeley’s ESPM 72 in Spring 2019, Intro to Geographic Information Sciences. I enjoyed sharing my excitement for GIS with students and want to share some of the teaching materials I developed for the lab section of this course. Feel free to use these intro labs or share any thoughts you have about them with me.
+1. Digitizing and Digital Elevation ModelsThis lab was developed using Google Earth Pro (free!</description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>/2019/09/04/articles/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/04/articles/</guid>
+      <description>Articles I have worked onThis page has links to blogs
+</description>
+    </item>
+    
+  </channel>
+</rss>
