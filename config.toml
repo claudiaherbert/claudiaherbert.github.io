@@ -6,12 +6,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
-publishDir = "_site"
-[original]
-  name = "Sustain"
-  homepage = "https://biomadeira.github.io/sustain/"
-  repo = "https://github.com/biomadeira/sustain"
-
+publishDir = "public"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
