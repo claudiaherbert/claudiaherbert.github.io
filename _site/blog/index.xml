@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Claudia Herbert</title>
-    <link>/blog/</link>
+    <link>https://claudiaherbert.github.io/blog/</link>
     <description>Recent content in Blogs on Claudia Herbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://claudiaherbert.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GIS Labs</title>
-      <link>/blog/gis_labs/</link>
+      <link>https://claudiaherbert.github.io/blog/gis_labs/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/gis_labs/</guid>
+      <guid>https://claudiaherbert.github.io/blog/gis_labs/</guid>
       <description>+++ title = &amp;ldquo;GIS Labs Description = &amp;ldquo;&amp;rdquo; tags = [ &amp;ldquo;GIS&amp;rdquo;, &amp;ldquo;digitizing&amp;rdquo;, &amp;ldquo;raster math&amp;rdquo;, &amp;ldquo;DEM&amp;rdquo;, &amp;ldquo;NLCD&amp;rdquo; ] date = &amp;ldquo;2014-04-02&amp;rdquo; categories = [ &amp;ldquo;GIS&amp;rdquo;, &amp;ldquo;Tutorials&amp;rdquo;, ] highlight = &amp;ldquo;true&amp;rdquo; +++
 Sharing GIS labs I was a Graduate Student Instructor for Berkeley&amp;rsquo;s ESPM 72 in Spring 2019, Intro to Geographic Information Sciences. I enjoyed sharing my excitement for GIS with students and want to share some of the teaching materials I developed for the lab section of this course.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/blog/about/</link>
+      <link>https://claudiaherbert.github.io/blog/about/</link>
       <pubDate>Wed, 04 Sep 2019 21:48:51 -0700</pubDate>
       
-      <guid>/blog/about/</guid>
+      <guid>https://claudiaherbert.github.io/blog/about/</guid>
       <description>I am a PhD student at UC Berkeley in Environmental Science, Policy and Management studying fire ecology using remote sensing. I am co-advised by Dr. Van Butsic, who studies land use and land use change, and Dr. Scott Stephens, who researches wildland fire. I am interested in Improved Forest Management carbon offsets in California&amp;rsquo;s cap-and-trade market and questions of environmental justice in wildfire recovery.
 I have a Bachelor of Science from UC Berkeley, where I majored in Conservation and Resource Studies and Society and Environment and minored in Forestry, Public Policy, and Geospatial Information Systems.</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
+      <link>https://claudiaherbert.github.io/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/creating-a-new-theme/</guid>
+      <guid>https://claudiaherbert.github.io/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
+      <link>https://claudiaherbert.github.io/blog/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/goisforlovers/</guid>
+      <guid>https://claudiaherbert.github.io/blog/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
+      <link>https://claudiaherbert.github.io/blog/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/hugoisforlovers/</guid>
+      <guid>https://claudiaherbert.github.io/blog/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -67,10 +67,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
+      <link>https://claudiaherbert.github.io/blog/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/migrate-from-jekyll/</guid>
+      <guid>https://claudiaherbert.github.io/blog/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
