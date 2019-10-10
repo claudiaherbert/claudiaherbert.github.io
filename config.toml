@@ -28,10 +28,10 @@ publishDir = "public"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "posts"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "posts"
+  url = "/posts/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
@@ -41,4 +41,4 @@ publishDir = "public"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/resume/"
+  url = "/resume.pdf"
