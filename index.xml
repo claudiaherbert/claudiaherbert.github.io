@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudia Herbert</title>
+    <link>/</link>
+    <description>Recent content on Claudia Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GIS Labs</title>
+      <link>/blog/gis_labs/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gis_labs/</guid>
+      <description>+++ title = &amp;ldquo;GIS Labs Description = &amp;ldquo;&amp;rdquo; tags = [ &amp;ldquo;GIS&amp;rdquo;, &amp;ldquo;digitizing&amp;rdquo;, &amp;ldquo;raster math&amp;rdquo;, &amp;ldquo;DEM&amp;rdquo;, &amp;ldquo;NLCD&amp;rdquo; ] date = &amp;ldquo;2014-04-02&amp;rdquo; categories = [ &amp;ldquo;GIS&amp;rdquo;, &amp;ldquo;Tutorials&amp;rdquo;, ] highlight = &amp;ldquo;true&amp;rdquo; +++
+Sharing GIS labs I was a Graduate Student Instructor for Berkeley&amp;rsquo;s ESPM 72 in Spring 2019, Intro to Geographic Information Sciences. I enjoyed sharing my excitement for GIS with students and want to share some of the teaching materials I developed for the lab section of this course.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/blog/about/</link>
+      <pubDate>Wed, 04 Sep 2019 21:48:51 -0700</pubDate>
+      
+      <guid>/blog/about/</guid>
+      <description>I am a PhD student at UC Berkeley in Environmental Science, Policy and Management studying fire ecology using remote sensing. I am co-advised by Dr. Van Butsic, who studies land use and land use change, and Dr. Scott Stephens, who researches wildland fire. I am interested in Improved Forest Management carbon offsets in California&amp;rsquo;s cap-and-trade market and questions of environmental justice in wildfire recovery.
+I have a Bachelor of Science from UC Berkeley, where I majored in Conservation and Resource Studies and Society and Environment and minored in Forestry, Public Policy, and Geospatial Information Systems.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
